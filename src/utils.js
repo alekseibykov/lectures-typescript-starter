@@ -32,4 +32,4 @@ function sendUpdates(emailAddr) {
 		sendEmail(emailAddr.trim());
 	}
 }
-/* eslint-enable */
+
