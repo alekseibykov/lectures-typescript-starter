@@ -1,4 +1,5 @@
 Object.defineProperty(exports, '__esModule', { value: true });
+exports.list = void 0;
 exports.list = [
 	{
 		title: 'Животные',
@@ -34,3 +35,4 @@ exports.list = [
 		],
 	},
 ];
+// # sourceMappingURL=data.js.map
